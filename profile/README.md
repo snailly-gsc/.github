@@ -48,8 +48,7 @@
 
 <p  align="center">
 
-The Snaily is an application supervise children's internet usage activities using a computer or smartphone.
-
+Snailly is an application for parents to control and supervise their children's activities on the internet, where children can explore the world of the internet safely and parents will not worry about the dangers of the internet.
 </p>
 
 </div>
