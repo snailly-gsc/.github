@@ -80,13 +80,13 @@ The Snaily is an application supervise children's internet usage activities usin
 ## Features
 
 ### Surfior
-With Azure ML Studio we developed the machine learning that can protect children from negative contents
+With Tensorflow we developed the machine learning that can protect children from negative contents
 
 ### Notifior
-Provide notifications on parent’s device with Azure Notification Hub
+Provide notifications on parent’s device with Firebase Notification
 
 ### Reportior
-Provide a child's internet history report with Azure Blob Storage
+Provide a child's internet history report with Google Cloud Platform
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
@@ -94,9 +94,17 @@ Provide a child's internet history report with Azure Blob Storage
 
 [![Flutter][Flutter.dev]][Flutter-url] <br>
 
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 [![Express.js][Express-badge]][Express-url] <br>
 
 [![Prisma][Prisma-badge]][Prisma-url] <br>
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
