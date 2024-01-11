@@ -1,12 +1,134 @@
-## Hi there 👋
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
+<a  name="readme-top"></a>
 
 <!--
 
-**Here are some ideas to get you started:**
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+*** that would make this better, please fork the repo and create a pull request
+
+*** or simply open an issue with the tag "enhancement".
+
+*** Don't forget to give the project a star!
+
+*** Thanks again! Now go create something AMAZING! :D
+
 -->
+
+<!-- PROJECT SHIELDS -->
+
+<!--
+
+*** I'm using markdown "reference style" links for readability.
+
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+
+*** See the bottom of this document for the declaration of the reference variables
+
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+
+-->
+
+<!-- PROJECT LOGO -->
+
+<br />
+
+<div  align="center">
+
+<a  href="https://github.com/barudak-well/setiket">
+
+<img  src="/images/logo.png"  alt="Logo"  width="50%">
+
+</a>
+
+<h3  align="center">Snailly</h3>
+
+<p  align="center">
+
+The Snaily is an application supervise children's internet usage activities using a computer or smartphone.
+
+</p>
+
+</div>
+
+<!-- About The Project -->
+
+## About The Project
+
+[![Snailly Screen Shot][snailly-screenshot]](<[https://github.com/barudak-well/setiket](https://github.com/snailly-hackfest)>)
+
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
+<!-- Our Team -->
+
+## Our Team
+
+| Name                     | Email                        | Role    |
+| ------------------------ | ---------------------------- | ------- |
+| Mohammad Aziz Riza       | mohammadazrizaaziz@gmail.com | Hustler |
+| Dwi Pujining Tyas        | dwipujiningtyas03@gmail.com  | Hipster |
+| Raihan Syah Sukana Putra | raihansyah45@gmail.com       | Hacker  |
+| Ariq Hikari Hidayat      | ariqhikari@gmail.com         | Hacker  |
+
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
+<!-- FEATURES -->
+
+## Features
+
+### Surfior
+With Azure ML Studio we developed the machine learning that can protect children from negative contents
+
+### Notifior
+Provide notifications on parent’s device with Azure Notification Hub
+
+### Reportior
+Provide a child's internet history report with Azure Blob Storage
+
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
+## Built With
+
+[![Flutter][Flutter.dev]][Flutter-url] <br>
+
+[![Express.js][Express-badge]][Express-url] <br>
+
+[![Prisma][Prisma-badge]][Prisma-url] <br>
+
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## Installation
+
+- <a  href="https://github.com/snailly-hackfest/snailly-mobile">Installation for mobile</a>
+- <a  href="https://github.com/snailly-hackfest/snailly-desktop">Installation for desktop</a>
+- <a  href="https://github.com/snailly-hackfest/snailly-backend">Installation for backend</a>
+- <a  href="https://github.com/snailly-hackfest/snailly-machine-learning">Installation for machine learing</a>
+
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/barudak-well/setiket/blob/main/LICENSE.txt
+[snailly-screenshot]: /images/banner.png
+[Flutter.dev]: https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB
+[Flutter-url]: https://flutter.dev/
+[Express-badge]: https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=5CA74B
+[Express-url]: https://expressjs.com/
+[Prisma-badge]: https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=ffffff
+[Prisma-url]: https://www.prisma.io/
