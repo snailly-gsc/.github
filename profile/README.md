@@ -19,8 +19,6 @@ Snailly is an application for parents to control and supervise their children's 
 
 [![Snailly Screen Shot][snailly-screenshot]](<[https://github.com/barudak-well/setiket](https://github.com/snailly-hackfest)>)
 
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
-
 <!-- Our Team -->
 
 ## Our Team
@@ -31,8 +29,6 @@ Snailly is an application for parents to control and supervise their children's 
 | Dwi Pujining Tyas        | Hipster | Universitas Komputer Indonesia | dwipujiningtyas03@gmail.com   |
 | Raihan Syah Sukana Putra | Hacker  | Universitas Komputer Indonesia | raihansyah45@gmail.com        |
 | Ariq Hikari Hidayat      | Hacker  | Universitas Komputer Indonesia | ariqhikari@gmail.com          |
-
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
 <!-- FEATURES -->
 
@@ -54,8 +50,6 @@ Provide notifications on parent’s device with Firebase Notification
 ### Reportior
 Provide a child's internet history report with PostgreSQL
 
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
-
 ## Built With
 
 [![Flutter][Flutter.dev]][Flutter-url]
@@ -74,8 +68,6 @@ Provide a child's internet history report with PostgreSQL
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## Installation
@@ -85,15 +77,11 @@ Provide a child's internet history report with PostgreSQL
 - <a  href="https://github.com/snailly-hackfest/snailly-backend">Installation for Backend</a>
 - <a  href="https://github.com/snailly-hackfest/snailly-machine-learning">Installation for Machine Learning</a>
 
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
