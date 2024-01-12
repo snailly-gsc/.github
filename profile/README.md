@@ -82,9 +82,7 @@ Snailly is an application for parents to control and supervise their children's 
 With Tensorflow we developed the machine learning that can protect children from negative contents
 
 #### Screen Mobile
-![surfior](https://github.com/snailly-hackfest/.github/assets/59524975/12d3a349-e6ab-46cb-8e7f-b03a3a51fa43)
-
-
+![surfior](https://github.com/snailly-hackfest/.github/assets/59524975/f274d11d-a3f9-4b20-b5a1-d318a7377cda)
 
 ### Notifior
 Provide notifications on parent’s device with Firebase Notification
