@@ -119,7 +119,7 @@ Provide a child's internet history report with Google Cloud Platform
 - <a  href="https://github.com/snailly-hackfest/snailly-mobile">Installation for mobile</a>
 - <a  href="https://github.com/snailly-hackfest/snailly-desktop">Installation for desktop</a>
 - <a  href="https://github.com/snailly-hackfest/snailly-backend">Installation for backend</a>
-- <a  href="https://github.com/snailly-hackfest/snailly-machine-learning">Installation for machine learing</a>
+- <a  href="https://github.com/snailly-hackfest/snailly-machine-learning">Installation for machine learning</a>
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
