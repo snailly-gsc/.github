@@ -44,7 +44,7 @@ With Tensorflow we developed the machine learning that can protect children from
 #### Screen Mobile
 ![surfior](https://github.com/snailly-hackfest/.github/assets/59524975/f274d11d-a3f9-4b20-b5a1-d318a7377cda)
 
-### Screen Desktop
+#### Screen Desktop
 
 ![Group 5360](https://github.com/snailly-hackfest/.github/assets/66149479/9c628eb4-d6ba-4bf1-b302-ada63f1a566c)
 
