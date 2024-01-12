@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+![Group 5358](https://github.com/snailly-hackfest/.github/assets/66149479/12d8ddd9-9371-40a8-b326-ad81caae51d9)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <a  name="readme-top"></a>
 
@@ -84,11 +84,19 @@ With Tensorflow we developed the machine learning that can protect children from
 #### Screen Mobile
 ![surfior](https://github.com/snailly-hackfest/.github/assets/59524975/f274d11d-a3f9-4b20-b5a1-d318a7377cda)
 
+### Screen Desktop
+
+![Group 5360](https://github.com/snailly-hackfest/.github/assets/66149479/9c628eb4-d6ba-4bf1-b302-ada63f1a566c)
+
+
+
+
+
 ### Notifior
 Provide notifications on parent’s device with Firebase Notification
 
 ### Reportior
-Provide a child's internet history report with Google Cloud Platform
+Provide a child's internet history report with PostgreSQL
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
