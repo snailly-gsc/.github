@@ -1,4 +1,4 @@
-![Group 5358](https://github.com/snailly-hackfest/.github/assets/66149479/12d8ddd9-9371-40a8-b326-ad81caae51d9)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
 <a  name="readme-top"></a>
 
