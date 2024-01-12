@@ -25,12 +25,12 @@ Snailly is an application for parents to control and supervise their children's 
 
 ## Our Team
 
-| Name                     | Roles    | Email                        |
-| ------------------------ | ------- | ---------------------------- |
-| Mohammad Aziz Riza       | Hustler | mohammadazrizaaziz@gmail.com |
-| Dwi Pujining Tyas        | Hipster | dwipujiningtyas03@gmail.com  |
-| Raihan Syah Sukana Putra | Hacker  | raihansyah45@gmail.com       |
-| Ariq Hikari Hidayat      | Hacker  | ariqhikari@gmail.com         |
+| Name                     | Role    | University                      | Email                        |
+| ------------------------ | ------- | ------------------------------- | ---------------------------- |
+| Mohammad Aziz Riza       | Hustler | Universitas Komputer Indonesia | mohammadazrizaaziz@gmail.com  |
+| Dwi Pujining Tyas        | Hipster | Universitas Komputer Indonesia | dwipujiningtyas03@gmail.com   |
+| Raihan Syah Sukana Putra | Hacker  | Universitas Komputer Indonesia | raihansyah45@gmail.com        |
+| Ariq Hikari Hidayat      | Hacker  | Universitas Komputer Indonesia | ariqhikari@gmail.com          |
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
