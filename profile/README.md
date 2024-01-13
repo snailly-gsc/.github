@@ -30,6 +30,11 @@ Snailly is an application for parents to control and supervise their children's 
 | Raihan Syah Sukana Putra | Hacker  | Universitas Komputer Indonesia | raihansyah45@gmail.com        |
 | Ariq Hikari Hidayat      | Hacker  | Universitas Komputer Indonesia | ariqhikari@gmail.com          |
 
+## Demo
+You can install the Demo here:
+- [Snailly Mobile](https://github.com/snailly-hackfest/snailly-mobile/releases/tag/1.0)
+- [Snailly Desktop](https://github.com/snailly-hackfest/snailly-desktop/releases/tag/1.0)
+
 <!-- FEATURES -->
 
 ## Features
