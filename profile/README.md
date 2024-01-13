@@ -35,7 +35,7 @@ Snailly is an application for parents to control and supervise their children's 
 ## Features
 
 ### Surfior [IMPLEMENTED✨]
-With Tensorflow we developed the machine learning that can protect children from negative contents
+With Tensorflow, we have developed the machine learning that can protect children from negative content.
 
 #### Screen Mobile
 ![surfior](https://github.com/snailly-hackfest/.github/assets/59524975/f274d11d-a3f9-4b20-b5a1-d318a7377cda)
