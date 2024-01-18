@@ -32,7 +32,7 @@ Snailly is an application for parents to control and supervise their children's 
 
 ## Demo
 You can install the Demo here:
-- [Snailly Mobile](https://github.com/snailly-hackfest/snailly-mobile/releases/tag/1.0) - [Tutorial](https://github.com/snailly-hackfest/snailly-mobile?tab=readme-ov-file#tutorial)
+- [Snailly Mobile](https://github.com/snailly-hackfest/snailly-mobile/releases/tag/1.1) - [Tutorial](https://github.com/snailly-hackfest/snailly-mobile?tab=readme-ov-file#tutorial)
 - [Snailly Desktop](https://github.com/snailly-hackfest/snailly-desktop/releases/tag/1.0) - [Tutorial](https://github.com/snailly-hackfest/snailly-desktop?tab=readme-ov-file#tutorial)
 
 <!-- FEATURES -->
